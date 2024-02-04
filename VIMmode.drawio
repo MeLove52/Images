@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T09:13:02.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="eJmvINtco5ASpihRHREZ" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-04T09:46:09.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="tiz-fKbjhBNHaqFtIZLh" version="23.0.2" type="github" pages="2">
   <diagram id="TObVRpGsACzpgjtXnppP" name="第 1 页">
     <mxGraphModel dx="1966" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,6 +12,32 @@
         </mxCell>
         <mxCell id="pdnP8gtAgBVlj_PYH2fE-3" value="insert" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FAE5C7;strokeColor=#0F8B8D;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;labelBorderColor=none;fontColor=#143642;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-300" y="-712" width="60" height="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mBJZyvgAfiiZK0Oj8g_0" name="第 2 页">
+    <mxGraphModel dx="1166" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4sMS2K0JC7_ImJWJKxRT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;gradientDirection=radial;labelBorderColor=#FFFFFF;fillColor=#dae8fc;strokeColor=none;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry y="220" width="830" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="4sMS2K0JC7_ImJWJKxRT-2" value="&lt;pre&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#97d077&quot; style=&quot;font-size: 20px;&quot;&gt;First Principles Thinking&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontSize=20;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="154" y="280" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4sMS2K0JC7_ImJWJKxRT-3" value="&lt;pre&gt;&lt;font color=&quot;#b5739d&quot; face=&quot;Tahoma&quot;&gt;去芜存菁&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontSize=20;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4sMS2K0JC7_ImJWJKxRT-4" value="&lt;pre&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#97d077&quot; style=&quot;font-size: 20px;&quot;&gt;First Principles Thinking&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontSize=20;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4sMS2K0JC7_ImJWJKxRT-5" value="&lt;pre&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Keep learning&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontSize=20;fillColor=#f8cecc;strokeColor=none;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="170" y="500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4sMS2K0JC7_ImJWJKxRT-6" value="&lt;pre&gt;&lt;font data-eusoft-did-translate-attribute-en=&quot;1&quot; face=&quot;Comic Sans MS&quot;&gt;MECE(Mutually Exclusive, Collectively Exhaustive)&lt;/font&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontSize=20;fillColor=#fad7ac;strokeColor=none;fontColor=#FFB570;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="510" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
